@@ -3,7 +3,7 @@ permalink: pretty
 markdown: kramdown
 paginate: 5
 repo: lexington
-github_org: maptime
+github_org: lexington
 maptime:
   chapter: maptimeLEX
   twitter: @maptimeLEX
