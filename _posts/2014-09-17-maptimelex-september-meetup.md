@@ -9,13 +9,13 @@ We'll be holding our first official meetup at the Lexington Public Library, Cent
 
 *  When: Wednesday, September 17th, 6:45 - 8:00 PM
 *  Where: Lexington Public Library, Central Library, Conference Room B, 140 E Main St, Lexington, Kentucky 40507
-*  Who: Anyone with an interest IN maps!
+*  Who: Anyone with an interest in maps!
 *  Why: This is a great chance to learn about the webmaps while also engaging with folks from different backgrounds who have an interest in the world of webmaps too.
 
 <div id='map' class='row8 fill-blue col12 map space-bottom2'></div>
 <script>
 var map = L.mapbox.map('map', 'maptastik.j354k5k8')
-    .setView([38.045259, -84.495702], 17);
+    .setView([38.045717, -84.496713], 17);
 
 var marker = L.mapbox.featureLayer({
   'type': 'Feature',
@@ -26,7 +26,7 @@ var marker = L.mapbox.featureLayer({
   },
   'geometry': {
     'type': 'Point',
-    'coordinates': [-84.495702, 38.045259 ]
+    'coordinates': [-84.496713, 38.045717 ]
   }
 }).addTo(map);
 
