@@ -3,10 +3,10 @@ layout: post
 title: Agenda for 9/17 Meetup
 ---
 <hr>
-###Agenda
+#Agenda
 1. What is maptime? (Dan Cockayne)
 1. Who are you? (Everyone!)
-1. "Anatomy of a Web Map (Ryan Cooper + whoever else wants to chime in)
+1. ["Anatomy of a Web Map"](http://maptimelex.github.io/anatomy-of-a-webmap/ "anatomy of a webmap slides") (Ryan Cooper + whoever else wants to chime in)
 1. maptimeLEX brainstorming (Everyone!)
 1. ???
 <hr>
