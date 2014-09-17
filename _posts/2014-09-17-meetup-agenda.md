@@ -14,10 +14,10 @@ title: Agenda for 9/17 Meetup
 Date: 9/27/14  
 Time: 6:45 PM - 8:30 PM  
 Location: 
-> Lexington Public Library, Central Library  
-> Conference Room B  
-> 140 E Main St,  
-> Lexington, Kentucky 40507
+Lexington Public Library, Central Library  
+Conference Room B  
+140 E Main St,  
+Lexington, Kentucky 40507
 
 <div id='map' class='row8 fill-blue col12 map space-bottom2'></div>
 <script>
