@@ -2,15 +2,15 @@
 layout: post
 title: Agenda for 9/17 Meetup
 ---
-
-##Agenda
-
+<hr>
+###Agenda
 1. What is maptime? (Dan Cockayne)
 1. Who are you? (Everyone!)
 1. "Anatomy of a Web Map (Ryan Cooper + whoever else wants to chime in)
 1. maptimeLEX brainstorming (Everyone!)
 1. ???
 <hr>
+And just a reminder of the essentials for the meeting-  
 Date: 9/27/14  
 Time: 6:45 PM - 8:30 PM  
 Location: 
