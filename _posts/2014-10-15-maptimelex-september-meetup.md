@@ -31,7 +31,7 @@ var marker = L.mapbox.featureLayer({
   'type': 'Feature',
   'properties': {
     'title': 'Awesome Inc',
-    'description': '348 E Main St,<br>Conference Room B<br>Lexington, Kentucky<br>40507',
+    'description': '348 E Main St,<br>Conference Room <br>Lexington, Kentucky<br>40507',
     'marker-color': '#ff8888'
   },
   'geometry': {
