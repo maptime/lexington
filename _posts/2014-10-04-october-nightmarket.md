@@ -1,13 +1,14 @@
 ---
 layout: post
 title: maptimeLEX at the October Night Market
+author: Ryan Cooper
 ---
 
 After a month away, maptimeLEX made its second appearance at the Night Market.For those who may not know, Night Market is a cool event in Lexington put on by the [NoLi CDC](http://nolicdc.com/) that occurs on the 1st Friday of each month. Usually it takes place outdoors on Bryan Ave between N Limestone and Loudon, but because of the rain, the event was relocated to [the Plantory](http://plantory.org/) in the Breadbox at W 6th and Jefferson. Kudos to Haley Perros (NoLi CDC) and the Plantory for making a less than ideal situation work out!
 
 ![Dan and Ryan at the maptimeLEX booth](img/nightmarket_20141003_danryan-web.jpg)
 
-Dan Cockayne and I (Ryan Cooper) manned the booth for the evening. We had a good amount of people inquiring about what we do and garnered the interest of folks from a wide range of backgrounds. We collected 10 signatures from artists, architects, geographers, tshirt designers and more! Even if some of the people we talked to didn't join our mailing list, there was a generally positive response to what we're trying to do in Lexington. In fact, we got an RSVP for our October 15th meetup during the Night Market!
+Dan Cockayne and I manned the booth for the evening. We had a good amount of people inquiring about what we do and garnered the interest of folks from a wide range of backgrounds. We collected 10 signatures from artists, architects, geographers, tshirt designers and more! Even if some of the people we talked to didn't join our mailing list, there was a generally positive response to what we're trying to do in Lexington. In fact, we got an RSVP for our October 15th meetup during the Night Market!
 
 ![The flyer we passed out announcing upcoming maptimeLEX events](img/mtl_flyer_201410-single.png)
 
