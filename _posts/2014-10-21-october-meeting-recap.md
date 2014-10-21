@@ -14,15 +14,15 @@ We had another solid showing of 14 this time around. We were also psyched to be 
 
 Sorry we missed the memo, maptimeBoulder!
 
-##CartoDB Tutorial
+###CartoDB Tutorial
 
 Our October meetup was split into two halves. For the first part I introduced [CartoDB](http://cartodb.com/) using [Chris Henrick's](https://twitter.com/chrislhenrick) (of [maptimeNYC](https://twitter.com/MaptimeNYC)) [tutorial](https://github.com/maptime/cartodb-tutorial). It's not only a really great walk-through of some of the capabilities of CartoDB as a platform, but also the practicality of the examples seemed to get folks asking spatial questions beyond those in the tutorial. It was clear that there was some interest in the myriad capabilities of PostGIS that underlie CartoDB. Indeed, that's a topic for a future maptimeLEX!
 
 After walking through the CartoDB tutorial, the remaining maptimers (a few had to leave early) grouped up for some collaborative mapping to try and get their hands dirty with the tool they'd just learned. The collaborative mapping time was loosely based on [FloatingSheep.org's](http://www.floatingsheep.org/) [IronSheep mapping competition](http://www.floatingsheep.org/2012/01/iron-sheep-has-landed-location.html). Held concurrently with the annual Association of American Geographers conference, IronSheep essentially consists of a thematic pool of geotagged Twitter data, some sort of prompt, and groups of people who have likely neither worked together, nor have the same skill sets. Over a a few short hours each group is meant to create an interesting map (or set of maps) that address the year's theme. [While this kind of event often times results in patently absurd cartographic productions](http://www.slideshare.net/matthewzook/for-website-debriefing-ironsheep-2013), the format worked well for our meetup because it forced people to just try and make something, *anything*. So with all that explaining of why we did this type of collaborative mapping, let's see some results.
 
-##Collaborative Mapping Activity
+###Collaborative Mapping Activity
 
-####Collaborative Mapping Prompt
+#####Collaborative Mapping Prompt
 
 Kentucky Proud, the state organization tasked with promoting Kentucky-made products paid millions of dollars to a consulting firm to put together a marketing plan to promote fear-based tourism. After a year of work, the agency came up with a genius plan: 
 
@@ -32,11 +32,11 @@ Kentucky Proud, the state organization tasked with promoting Kentucky-made produ
 
 But after getting paid for coming up with the marketing slogan, the agency folded up shop and went for a cocaine fueled binge on a yacht somewhere in the Gulf and never returned. Left without anything but a crappy riff on their existing brand name, maptimeLEX was approached by Kentucky Proud to create some maps to help promote scary tourism in the Bluegrass.
 
-####Collaborative Mapping Data
+#####Collaborative Mapping Data
 
 All groups had access to a variety of data sets to get them started. Some were your typical base reference data (counties, state outline, etc.), but I also included some datasets somewhat related to the fear theme. All the data can be accessed [here](https://github.com/maptimelex/maptimelex.github.io/tree/master/cartodb-tutorial/data).
 
-####Collaborative Mapping Results
+#####Collaborative Mapping Results
 
 We had two groups of three and one group of four. Each had about an hour to work together, brainstorm ideas and make some maps. I'll be the first to admit that maybe this was not enough time for it to be a truly group effort in terms of a single final map, but working in groups did allow for people to bounce questions off one another. In that way I think it was a success! Also, maps were made! Here they are (I've included links to the maps on CartoDB as well as our website's page width doesn't do them all justice):
 
@@ -65,6 +65,6 @@ With the late submission, Andy Schooner gave us this great Colonel Sanders layin
 <iframe width='100%' height='600' frameborder='0' src='http://ashooner.cartodb.com/viz/fe56e776-54d0-11e4-957e-0e9d821ea90d/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 [See it here!](http://ashooner.cartodb.com/viz/fe56e776-54d0-11e4-957e-0e9d821ea90d/public_map)
 
-##Closing Remarks
+###Closing Remarks
 
 So that was the maptimeLEX that was. We're shooting to meet Wednesday, November 19th for our next meetup. Jessi Breen is going to be teaching us how to get up and running with postegres and PostGIS. We're solidfying some last details and will have everything posted as soon as possible. Be on the lookout! Until then, happy mapping!
