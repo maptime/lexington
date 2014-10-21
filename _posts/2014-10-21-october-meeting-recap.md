@@ -6,6 +6,8 @@ author: Ryan Cooper
 
 maptimeLEX had its second official meetup on Wednesday, October 15th at Awesome Inc. Before talking about our meetup I just want to give them a a huge thanks to Awesome Inc for donating the space. If you want to learn about Awesome Inc and the cool things they're doing to in Kentucky to get kids coding and fostering the development of startups, [check them out](http://www.awesomeinc.org/).
 
+![Awesome Inc is awesome](http://maptime.github.io/lexington/img/awesomeinc_square.png)
+
 We had another solid showing of 14 this time around. We were also psyched to be a part of a #sextuplemaptime turned #septuplemaptime.
 
 ![SEXTUPLEMAPTIME WAS ACTUALLY SEPTUPLEMAPTIME!](http://maptime.github.io/lexington/img/sextuple.gif)
