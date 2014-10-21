@@ -40,23 +40,23 @@ We had two groups of three and one group of four. Each had about an hour to work
 
 Jessi Breen and her group submitted this map of ghost sightings per county. This was probably the most advanced map as the original ghost sightings count data were at the town/city scale. They used the spatial join technique to aggregate to the county level. Good job, group!
 
-<iframe width='100%' height='520' frameborder='0' src='http://jessicabreen.cartodb.com/viz/2511150c-54cd-11e4-812d-0e4fddd5de28/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width='100%' height='600' frameborder='0' src='http://jessicabreen.cartodb.com/viz/2511150c-54cd-11e4-812d-0e4fddd5de28/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 Kenny Stancil and his group created a frightening map of graveyard intensity. We all noted how interesting it was that Lexington seemed bereft of graveyards. I noted that the data were from OSM and there's a distinction between tags and geometry for graveyards and cemeteries. At any rate, the map really captures the fire and brimstone landscape of Kentucky's underworld! 
 
-<iframe width='100%' height='520' frameborder='0' src='http://kwstancil.cartodb.com/viz/e8e82e3c-54cf-11e4-84b0-0e018d66dc29/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width='100%' height='600' frameborder='0' src='http://kwstancil.cartodb.com/viz/e8e82e3c-54cf-11e4-84b0-0e018d66dc29/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 We actually got two maps out of my group, not to brag. One group member, who chose to remain nameless, created this map of bike trails in Lexington with spooky Halloween colors. It serves as a stark reminder to drivers of the ever-present dangers they face by encroaching bicyclism. Scary stuff!
 
-<iframe width='100%' height='520' frameborder='0' src='http://velognome.cartodb.com/viz/771ddfb6-54cc-11e4-812d-0e4fddd5de28/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width='100%' height='600' frameborder='0' src='http://velognome.cartodb.com/viz/771ddfb6-54cc-11e4-812d-0e4fddd5de28/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 The other map out of our group was this BigBroLex map. OK, I made it, but the group supported me. Anyway, it is a map of the traffic cameras in Lexington, always there to remind you of the state's surveillance. We are made panoptical zombies by the ever-possibly watchful eyes in the sky. 
 
-<iframe width='100%' height='520' frameborder='0' src='http://maptimelex.cartodb.com/viz/0c2bde88-54cc-11e4-8df0-0e4fddd5de28/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width='100%' height='600' frameborder='0' src='http://maptimelex.cartodb.com/viz/0c2bde88-54cc-11e4-8df0-0e4fddd5de28/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 With the late submission, Andy Schooner gave us this great Colonel Sanders laying in state map. Personally, I love the stained glass aesthetic for the county fill. There's an eery somberness to it. I was moved.
 
-<iframe width='100%' height='520' frameborder='0' src='http://ashooner.cartodb.com/viz/fe56e776-54d0-11e4-957e-0e9d821ea90d/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width='100%' height='600' frameborder='0' src='http://ashooner.cartodb.com/viz/fe56e776-54d0-11e4-957e-0e9d821ea90d/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ##Closing Remarks
 
