@@ -2,11 +2,11 @@
 layout: event
 category: event
 title: maptimeLEX November 2014 Meetup
-rsvp:
+rsvp: https://www.eventbrite.com/e/gitting-to-know-you-getting-to-know-all-about-git-tickets-14153588765
 ---
 ![](https://raw.githubusercontent.com/maptime/lexington/gh-pages/img/maptimelex_20141119_card1.png)
 
-We're going to be doing something a little different for November's. Instead of a maptimeLEX-only event, the meetup is being cross-promoted to other tech groups in Lexington, including [LexLadiesCode](http://lexladiescode.org/). Past maptimeLEX attendee [Mike Dillion](http://mikedillion.com/) ([CirrusMio](http://cirrusmio.com/)) is going to be giving an introduction to some of the key concepts behind [git](http://git-scm.com/), a revision control system, and the popular software, [Github](https://github.com/). While, the discussion won't be just about maps, Github offers lots of support and features that make it a great tool for hosting spatial data. You can even use it to make your own website to present your cartographic masterpieces! It all starts at 6:00 PM on Wednesday, November 19th at the [Plantory](http://plantory.org/). We hope to see you there!
+We're going to be doing something a little different for November's. Instead of a maptimeLEX-only event, the meetup is being cross-promoted to other tech groups in Lexington, including [LexLadiesCode](http://lexladiescode.org/). Past maptimeLEX attendee [Mike Dillion](http://mikedillion.com/) ([CirrusMio](http://cirrusmio.com/)) is going to be giving an introduction to some of the key concepts behind [git](http://git-scm.com/), a revision control system, and the popular software, [Github](https://github.com/). While, the discussion won't be just about maps, Github offers lots of support and features that make it a great tool for hosting spatial data. You can even use it to make your own website to present your cartographic masterpieces! It all starts at 6:00 PM on Wednesday, November 19th at the [Plantory](http://plantory.org/). Space is limited so be sure to [RSVP on Eventbrite](https://www.eventbrite.com/e/gitting-to-know-you-getting-to-know-all-about-git-tickets-14153588765). We hope to see you there!
 
 <div id='map' class='row8 fill-blue col12 map space-bottom2'></div>
 <script>
