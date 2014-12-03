@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: maptimeLEX November 2014 Meetup
+title: maptimeLEX Decembe 2014 Meetup
 rsvp: https://www.eventbrite.com/e/gitting-to-know-you-getting-to-know-all-about-git-tickets-14153588765
 ---
 ![](https://raw.githubusercontent.com/maptime/lexington/gh-pages/img/maptimelex_20141119_card1.png)
