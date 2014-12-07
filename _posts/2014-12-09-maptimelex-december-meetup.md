@@ -2,21 +2,21 @@
 layout: event
 category: event
 title: maptimeLEX December 2014 Meetup
-rsvp: 
+rsvp: https://www.eventbrite.com/e/december-meetup-tickets-14835295769
 ---
 
-Jessi Breen is going to be walking us through building geostack. 
+Jessi Breen is going to be walking us through the first steps of building geostack. What does this mean? We're gonna be downloading OSM data, styling it in TileMill and making some tiles!
 
-A couple of things to make sure you can have the best experience at this meetup:
+Make sure you take care of the pre-meetup installs. The steps are outlined in Eric Theise's ["Let's Talk about Your Geostack" slides](http://erictheise.github.io/geostack-deck/#/). Additionally, you'll need to install [Virtual Box](https://www.virtualbox.org/) and [Vagrant](https://www.vagrantup.com/).
 
+Space is limited so make sure you RSVP on [Eventbrite](https://www.eventbrite.com/e/december-meetup-tickets-14835295769).
 
-1. Space is limited so make sure you RSVP on [Eventbrite]().
-2. Bring a laptop.  If you don't have access to one, let us know (maptimelex@gmail.com) and we'll be happy to work with you to get a hold of one for the evening.
+As usual, you'll need to bring a laptop.  If you don't have access to one, let us know (maptimelex@gmail.com) and we'll be happy to work with you to get a hold of one for the evening.
 
 ### The Essentials ###
 *  When: Tuesday, December 9th, 6:45 - 9:30 PM
 *  Where: Awesome Inc, 348 E Main St, Lexington, Kentucky 40507
-*  What: Building a geostack
+*  What: Building a geostack: Part I
 *  Who: Anyone with an interest in maps. All skill levels and backgrounds welcome!
 
 <div id='map' class='row8 fill-blue col12 map space-bottom2'></div>
