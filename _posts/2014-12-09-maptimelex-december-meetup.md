@@ -5,7 +5,7 @@ title: maptimeLEX December 2014 Meetup
 rsvp: https://www.eventbrite.com/e/december-meetup-tickets-14835295769
 ---
 
-Jessi Breen is going to be walking us through the first steps of building geostack. What does this mean? We're gonna be downloading OSM data, styling it in TileMill and making some tiles!
+Jessi Breen is going to be walking us through the first steps of building a geostack. What does this mean? We're gonna be downloading OSM data, styling it in TileMill and making some tiles!
 
 Make sure you take care of the pre-meetup installs. The steps are outlined in Eric Theise's ["Let's Talk about Your Geostack" slides](http://erictheise.github.io/geostack-deck/#/). Additionally, you'll need to install [Virtual Box](https://www.virtualbox.org/) and [Vagrant](https://www.vagrantup.com/).
 
