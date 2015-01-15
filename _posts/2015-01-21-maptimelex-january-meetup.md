@@ -11,8 +11,11 @@ We hope everyone had a great December and that 2015 has gotten off to a fabulous
 
 We're going to be learning about an amazing little JavaScript mapping library called [LeafletJS](http://leafletjs.com/). We'll talk about it more at the meetup, but you can use it to turn your webmap up to 11. And because January 21st is [Squirrel Appreciation Day](http://www.holidayinsights.com/moreholidays/January/squirrelappreciation.htm), we'll celebrate our cute rodent friends by internet mapping them. Look out cats!
 
+![Squirrel eating an acorn](http://maptime.github.io/lexington/img/squirrel_eating_acorn.gif)
+
 Seats are limited so be sure to RSVP on [Eventbrite](https://www.eventbrite.com/e/going-nuts-with-leafletjs-tickets-15345200909).
  
+
 
 ##tl;dr##
 
