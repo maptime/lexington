@@ -13,7 +13,7 @@ QGIS is a powerful free and open source software (FOSS) GIS application that all
 
 Seats are limited so be sure to RSVP on [Eventbrite](https://www.eventbrite.com/e/february-meetup-intro-to-qgis-tickets-15703477524).
 
-[![http://www2.qgis.org/en/site/index.html](http://maptime.github.io/lexington/img/QGis_Logo.png) ](http://www2.qgis.org/en/site/index.html)
+[![http://www2.qgis.org/en/site/index.html](http://maptime.github.io/lexington/img/QGis_Logo-small.png) ](http://www2.qgis.org/en/site/index.html)
 
 We also recommend [downloading the latest version of QGIS](http://www2.qgis.org/en/site/forusers/download.html). If you've got Windows, OSX, Linux, or even Android on a tablet, you're good to go!
  
