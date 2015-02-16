@@ -9,7 +9,7 @@ We're happy to announce our February meetup! Please join us Wednesday, Febrauary
 
 [![http://cirrusmio.com/](http://maptime.github.io/lexington/img/cirrusmio_logo_full.png) ](http://cirrusmio.com/)
 
-QGIS is a powerful free and open source software (FOSS) GIS application that allows you create, view, and edit spatial data, create beautiful cartographic masterpieces, and carry out spatial analysis. It is a useful tool to have in your mapping arsenal and best of all, it's free! Jessi will get us going with the basics of getting spatial data into QGIS and give us peek into its powerful spatial analysis capabilities.  
+QGIS is a powerful free and open source software (FOSS) GIS application that allows you create, view, and edit spatial data, create beautiful cartographic masterpieces, and carry out spatial analysis. It is a useful tool to have in your mapping arsenal and best of all, it's free! Jessi will get us going with the basics of working with data in QGIS and give us peek into its powerful spatial analysis capabilities.  
 
 Seats are limited so be sure to RSVP on [Eventbrite](https://www.eventbrite.com/e/february-meetup-intro-to-qgis-tickets-15703477524).
 
