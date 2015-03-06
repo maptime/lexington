@@ -14,7 +14,7 @@ Join us at [CirrusMio](http://http://cirrusmio.com/) on Wednesday, March 18 at 6
 
 <h1 style="text-align:center;font-family:Comic Sans MS, sans-serif;">"Squirrels rule, rats drool!"</h1>
 
-![](http://maptime.github.io/lexington/img/squirrel-king-icon-tease.png)  
+![](http://maptime.github.io/lexington/img/squirrel-king-icon-tease3.png)  
 
 Seats are limited so be sure to RSVP on [Eventbrite](https://www.eventbrite.com/e/march-2015-meetup-squirrel-revenge-tickets-16047717154).
  
