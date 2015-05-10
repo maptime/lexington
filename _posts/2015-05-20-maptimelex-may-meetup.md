@@ -27,7 +27,7 @@ While a basic understanding of GIS and JavaScript concepts won't hurt, newbies o
  
 In line with the general spirit of maptime, we want this and all our meetups to be welcoming to people of all backgrounds and skill levels. If you're more used to desktop GIS with ESRI products or QGIS, come out and learn! If you're JavaScript wizard, we want you too! A laptop will be necessary for following along. If you don't have access to one, feel free to contact us and we'll work to hook you up with a computer for the meetup.
 
-If you have any questions or concerns, don't hesitate to drop us an email or contact us via twitter. We look forward to seeing you on 4/15!
+If you have any questions or concerns, don't hesitate to drop us an email or contact us via twitter. We look forward to seeing you on 5/20!
 
 <div id='map' class='row8 fill-blue col12 map space-bottom2'></div>
 <script>
