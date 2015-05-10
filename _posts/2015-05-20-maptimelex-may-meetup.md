@@ -5,7 +5,7 @@ title: maptimeLEX May 2015 Meetup
 rsvp: https://www.eventbrite.com/e/geospatial-analysis-w-turfjs-for-realsies-edition-tickets-16929329079
 ---
 
-Don't adjust your glasses! Indeed, you're seeing things correctly. Because of a last-minute change in April our Mike Dillion's introduction to [TurfJS](http://turfjs.org/) is the topic for our May meetup. TurfJS is a powerful, new JavaScript library for doing geospatial analysis in the browser. We'll be meeting at 6:45 PM on Wednesday, April 15th at [CirrusMio](http://cirrusmio.com/) (154 Constitution St). 
+Don't adjust your glasses! Indeed, you're seeing things correctly. Because of a last-minute change in April Mike Dillion's introduction to [TurfJS](http://turfjs.org/) is the topic for our May meetup. TurfJS is a powerful, new JavaScript library for doing geospatial analysis in the browser. We'll be meeting at 6:45 PM on Wednesday, April 15th at [CirrusMio](http://cirrusmio.com/) (154 Constitution St). 
 
 [![http://cirrusmio.com/](http://maptime.github.io/lexington/img/cirrusmio_logo_full.png) ](http://cirrusmio.com/)
 
