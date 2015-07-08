@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: maptimeLEX July 2015 Meetup
-rsvp:http://www.eventbrite.com/e/maptimewet-tickets-17683478761
+rsvp: http://www.eventbrite.com/e/maptimewet-tickets-17683478761
 ---
 
 For our July meetup we're going to be having a change of venue and format. We'll be meeting Wednesday, July 15th at 7:00PM at Third Street Stuff. The theme for the night is maptimeWET. More specifically, we'll be talking water and maps! Guerrilla Cartography, the folks behind the volunteer-driven Food: An Atlas have returned with a new call for proposals, this time on the theme of water. For this meetup we'll be getting together to brainstorm a maptimeLEX map proposal for the forthcoming Water: An Atlas. Proposals are due September 1st, but it's not too early to play Marco Polo with that next big cartographic idea. So come join and let's sea what we can come up with!
