@@ -1,0 +1,324 @@
+<!DOCTYPE html >
+<html>
+<head>
+  <meta charset='UTF-8'/>
+  <meta name='twitter:site' content='@maptimeLEX' />
+  <meta property='og:site_name' content='maptimeLEX' />
+  <meta name='twitter:url' content='' />
+  <meta property='og:url' content='' />
+  <meta name='twitter:title' content='' />
+  <meta property='og:title' content='' />
+  <meta name='twitter:description' content='{% for item in paginator.posts %} {% if item.category == ‘event’ %} &amp;lt;h2&amp;gt;{{item.title}}&amp;lt;/h2&amp;gt; {{item.content}} &amp;lt;div class=&#39;keyline-all round pad2 col12 clearfix&#39;&amp;gt; &amp;lt;div class=&#39;col8 pad0y&#39;&amp;gt; Join us: {{item.date | date:”%A, %b %d...' />
+  <meta property='og:description' content='{% for item in paginator.posts %} {% if item.category == ‘event’ %} &amp;lt;h2&amp;gt;{{item.title}}&amp;lt;/h2&amp;gt; {{item.content}} &amp;lt;div class=&#39;keyline-all round pad2 col12 clearfix&#39;&amp;gt; &amp;lt;div class=&#39;col8 pad0y&#39;&amp;gt; Join us: {{item.date | date:”%A, %b %d...' />
+  
+  <title>maptimeLEX | </title>
+  <link rel='stylesheet' href='/site.css' type='text/css'/>
+  <link rel='shortcut icon' href='/img/favicon.png' type='image/x-icon' />
+  <script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.3/mapbox.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.3/mapbox.css' rel='stylesheet' />
+</head>
+<body>
+  <div class='masthead fill-blue'>
+    <div class='fill-darken0 pad1y strong dark'>
+      <div class='limiter'>
+        <a href='http://maptime.io/'>maptime.io</a>
+      </div>
+    </div>
+  </div>
+  <header class='fill-blue'>
+    <div class='limiter contain'>
+      <a href='/' class='sprite maptime pin-left'>Maptime</a>
+      <div class='col12 clearfix pad2y'>
+        <div class='round pad2 col6 margin6 strong dark fill-darken0 fill-chapter row4 truncate contain'>
+          <h1><a class='dark contain z1' href='/'>maptimeLEX</a></h1>
+          <div class='pin-right pad4x pad1y hide-mobile'>
+            <span class='sprite marker'></span>
+          </div>
+          <a href='https://twitter.com/maptimeLEX/' class='contain z1 fill-blue button'>
+            @maptimeLEX on Twitter
+          </a>
+        </div>
+      </div>
+    </div>
+  </header>
+  <div class='limiter pad4y'>
+    <div class='col12 clearfix'>
+      <aside class='col3 fr space-bottom2 sidebar'>
+        <div class='fill-purple strong dark round pad2 space-bottom2'>
+          <h3>The next maptimeLEX is:</h3>
+          <div id='rsvpdate'></div>
+        </div>
+
+        <div class='hide-mobile'>
+          <div class='popup-group'>
+            <a href='https://github.com/lexington/lexington/' class='col12 space-bottom2 button'>Watch these events</a>
+            <div class='popup popup-big keyline-all pad1 small round'>
+              <ol class='space-bottom1'>
+                <li>1. Click the <strong>Watch these events</strong> button.</li>
+                <li>2. Login to GitHub or signup for an account.</li>
+                <li>3. Click the <strong>Watch</strong> button on the repo.</li>
+              </ol>
+              <div class='center'>
+                <img src='/img/watchrepo.png' alt='Watch repo' />
+              </div>
+            </div>
+          </div>
+
+          <div class='followers'></div>
+          <div class='center'>
+            <div class='pad0y space-bottom2'>
+              <a class='small' href='https://github.com/lexington/lexington/watchers'>View all</a>
+            </div>
+          </div>
+        </div>
+      </aside>
+
+      <div class='col8 margin2r prose content'>
+        <!-- This loops through the paginated posts -->
+
+  
+    <h2><a href='/2014/10/04/october-nightmarket/'>maptimeLEX at the October Night Market</a></h2>
+    <p>After a month away, maptimeLEX made its second appearance at the Night Market.For those who may not know, Night Market is a cool event in Lexington put on by the <a href="http://nolicdc.com/">NoLi CDC</a> that occurs on the 1st Friday of each month. Usually it takes place outdoors on Bryan Ave between N Limestone and Loudon, but because of the rain, the event was relocated to <a href="http://plantory.org/">the Plantory</a> in the Breadbox at W 6th and Jefferson. Kudos to Haley Perros (NoLi CDC) and the Plantory for making a less than ideal situation work out!</p>
+
+<p><img src="http://maptime.github.io/lexington/img/nightmarket_20141003_danryan-web.jpg" alt="Dan and Ryan at the maptimeLEX booth" /></p>
+
+<p>Dan Cockayne and I manned the booth for the evening. We had a good amount of people inquiring about what we do and garnered the interest of folks from a wide range of backgrounds. We collected 10 signatures from artists, architects, geographers, tshirt designers and more! Even if some of the people we talked to didn’t join our mailing list, there was a generally positive response to what we’re trying to do in Lexington. In fact, we got an RSVP for our October 15th meetup during the Night Market!</p>
+
+<p><img src="http://maptime.github.io/lexington/img/mtl_flyer_201410-single.png" alt="The flyer we passed out announcing upcoming maptimeLEX events" /></p>
+
+<p>We also were able to engage several folks through a little participatory map art project we’ve started. We set up a map of the Night Market (where it usually occurs) and promted passsersby to draw or write on a little sticky note something that expressed their feeling or thoughts at that moment at the Night Market.</p>
+
+<p><img src="http://maptime.github.io/lexington/img/nightmarket_20141003_prompt-web.jpg" alt="Prompt for our participatory map" /></p>
+
+<p>While some were reticent to participate - they didn’t think they had anything good to add - many others got into the spirit of the project, adding pictures, random thoughts, and observations expressing their current state. It was pretty fun!</p>
+
+<p><img src="http://maptime.github.io/lexington/img/nightmarket_20141003_woman-web.jpg" alt="A kind woman adds her sentiments to the maptimeLEX participatory Night Market map" /></p>
+
+<p><img src="http://maptime.github.io/lexington/img/nightmarket_20141003_andy-web.jpg" alt="Andy Schooner adds a sweet bird to the map" /></p>
+
+<p>We hope to continue setting this map up with different prompts and activities at each Night Market so that it will become sedimented with the various sort of experiences surrounding this monthly event. We’ll post updates as this project moves forward!</p>
+
+<p><img src="http://maptime.github.io/lexington/img/nightmarket_20141003_map.JPG" alt="Participatory map of Night Market" /></p>
+
+    <div class='pad1y keyline-top'>
+      <strong class='quiet small block space-bottom1'>Posted Oct 04 2014 by Ryan Cooper</strong>
+    </div>
+  
+
+  
+    <h2><a href='/2014/09/18/september-meeting-recap/'>September Meeting Recap</a></h2>
+    <p><a href="https://twitter.com/rmcooper4">Ryan Cooper</a> here! I just want to give a little recap of our meeting on Wednesday, September 17th.  </p>
+
+<p>Wednesday was a big day for <a href="https://twitter.com/maptimelex">maptimeLEX</a>. It was our very first meetup! I know when I officially announced the event a couple weeks ago I hoped we might have 5 - 7 people show up. Imagine my surprise when we more than doubled that projection! 15 whole people!!! It was such a joy to see that there were already so many folks acting on their curiosities about maptime and maps more generally(and hopefully thinking about how they might participate in future maptimeLEX meetups :-D). </p>
+
+<p>The meetup started with a brief presentation by <a href="https://twitter.com/insistondoubt">Dan Cockayne</a> in which he addressed the question, “What is maptime?” In typical Dan fashion it quickly took a turn to the metaphysical when he asked, “How is maptime different from other time?” But overall, I think Dan’s introduction of the maptime ethos laid a solid foundation upon which we can build maptimeLEX. Thanks, Dan!</p>
+
+<p><img src="http://maptime.github.io/lexington/img/maptimelex_20140917_cockayne-pres.JPG" alt="Dan Cockayne explains what maptime is" /></p>
+
+<p>Next, we went around the room and did introductions. We had little clusters of people who already knew each other. There was a contingent of geographers from the University of Kentucky, another group from <a href="http://www.photoscience.com/">Photo Science (a Quantum Spatial company)</a>, and folks working in local government offices around the region.  We learned a lot in that time. We learned that <a href="https://twitter.com/ericmhuntley">Eric Huntley’s</a> favorite 90s chart-topper was <a href="https://www.youtube.com/watch?v=VV1XWJN3nJo">Natalie Imbriglia’s “Torn.”</a> We learned that Andy Schooner did recreational GIS in college. And the biggest surprise, we learned that Ryan Bowe loves metadata. <a href="https://twitter.com/geometadata">She’s got the twitter handle to prove it!</a></p>
+
+<p>Next, I presented <a href="http://maptimelex.github.io/anatomy-of-a-webmap" title="Anatomy of a Webmap - maptimeLEX edition">“Anatomy of a Webmap” - Alan McConchie &amp; Beth Schechter (feat. Lyzi Diamond)</a>. While I tried to guide us through that presentation, it was wonderful that we had so much group participation. We got to carry out the maptime practice of collaborative learning, particularly in spots where my familiarity with the finer points of webmap anatomy was wanting. And we had some great questions too! Perhaps most memorable was <a href="https://twitter.com/wilsonism">Matt Wilson</a> asking “What is the political economy of geoJSON?” Thankfully there were some folks in attendance who knew what that question meant!</p>
+
+<p><img src="http://maptime.github.io/lexington/img/maptimelex_20140917_cooper-anatomy.jpg" alt="Ryan Cooper presents &quot;Anatomy of a Webmap&quot;" /></p>
+
+<p>We wrapped up the meeting with about 10 minutes of brainstorming of potential topics, considerations, and meeting styles for future. There was also discussion of creating a Google Group for general maptimeLEX discussion and perhaps also leveraging GitHub issues because reasons (<a href="https://twitter.com/mikedillion">Mike Dillion</a> knows what they are!).</p>
+
+<p>At the very end, I believe it was who Ryan Bowe asked the most important question: “When is the next meeting?” We agreed for the time being we would only meet once a month and then increase the regularity once we could see that interest and demand were sufficient to justify more frequent meetups. We set a tentative date for Wednesday, October 15th. Dan mentioned that while the library seemed to work, we might check some other venues. <a href="https://twitter.com/aerosuch">Nick Such</a> suggested that we might be able to meet at <a href="http://www.awesomeincu.com/" title="Awesome Inc">Awesome Inc</a>. so long as there weren’t any other events scheduled for whatever evening we decide on. The date, time, and location for our next meeting are still TBD, but we’ll be working to get that solidified in the coming days.</p>
+
+<p>And thus came to an end the first meeting of maptimeLEX. Again, I’m so thankful to everyone who came out, participated, and helped get this whole thing started. We’re definitely looking forward to what maptimeLEX will become as we do this thing more and more.</p>
+
+<p><img src="http://maptime.github.io/lexington/img/maptimelex_20140917_globehuggers.jpg" alt="Dan Cockayne, Jessi Breen, and Andy Schooner touch a big globe (featuring crazy vertical exaggeration in the topography) at the Lexington Public Library" /></p>
+
+    <div class='pad1y keyline-top'>
+      <strong class='quiet small block space-bottom1'>Posted Sep 18 2014 </strong>
+    </div>
+  
+
+  
+    <h2><a href='/2014/09/17/meetup-agenda/'>Agenda for 9/17 Meetup</a></h2>
+    <hr />
+
+<h1 id="agenda">Agenda</h1>
+<ol>
+  <li>What is maptime? (Dan Cockayne)</li>
+  <li>Who are you? (Everyone!)</li>
+  <li><a href="http://maptimelex.github.io/anatomy-of-a-webmap/" title="anatomy of a webmap slides">“Anatomy of a Web Map”</a> (Ryan Cooper + whoever else wants to chime in)</li>
+  <li>maptimeLEX brainstorming (Everyone!)</li>
+  <li>???</li>
+</ol>
+<hr />
+
+<p>And just a reminder of the essentials for the meeting-<br />
+Date: 9/27/14<br />
+Time: 6:45 PM - 8:30 PM<br />
+Location: 
+Lexington Public Library, Central Library<br />
+Conference Room B<br />
+140 E Main St,<br />
+Lexington, Kentucky 40507</p>
+
+<div id="map" class="row8 fill-blue col12 map space-bottom2"></div>
+<script>
+var map = L.mapbox.map('map', 'maptastik.j354k5k8')
+    .setView([38.045717, -84.496713], 17);
+
+var marker = L.mapbox.featureLayer({
+  'type': 'Feature',
+  'properties': {
+    'title': 'Lexington Public Library, Central Library',
+    'description': '140 E Main St,<br>Conference Room B<br>Lexington, Kentucky<br>40507',
+    'marker-color': '#ff8888'
+  },
+  'geometry': {
+    'type': 'Point',
+    'coordinates': [-84.496713, 38.045717 ]
+  }
+}).addTo(map);
+
+marker.eachLayer(function(m) {
+    m.openPopup();
+});
+</script>
+
+
+    <div class='pad1y keyline-top'>
+      <strong class='quiet small block space-bottom1'>Posted Sep 17 2014 </strong>
+    </div>
+  
+
+  
+    <h2><a href='/event/2014/09/17/maptimelex-september-meetup/'>maptimeLEX September Meetup</a></h2>
+    <p>We’ll be holding our first official meetup at the Lexington Public Library, Central Library, Conference Room B. We’ll be starting at 6:45 PM with an opening presentation about maptime followed by introductions and a primer on the anatomy of a webmap. Bring your laptop and be ready to do some mapping! Whether you’re a map nerd who wants to learn about how all the cool webmaps you use work, a developer looking to explore the exciting geo-realm, or something else entirely, this meetup will be for you. We look forward to seeing you there!</p>
+
+<ul>
+  <li>When: Wednesday, September 17th, 6:45 - 8:00 PM</li>
+  <li>Where: Lexington Public Library, Central Library, Conference Room B, 140 E Main St, Lexington, Kentucky 40507</li>
+  <li>Who: Anyone with an interest in maps!</li>
+  <li>Why: This is a great chance to learn about the webmaps while also engaging with folks from different backgrounds who have an interest in the world of webmaps too.</li>
+</ul>
+
+<div id="map" class="row8 fill-blue col12 map space-bottom2"></div>
+<script>
+var map = L.mapbox.map('map', 'maptastik.j354k5k8')
+    .setView([38.045717, -84.496713], 17);
+
+var marker = L.mapbox.featureLayer({
+  'type': 'Feature',
+  'properties': {
+    'title': 'Lexington Public Library, Central Library',
+    'description': '140 E Main St,<br>Conference Room B<br>Lexington, Kentucky<br>40507',
+    'marker-color': '#ff8888'
+  },
+  'geometry': {
+    'type': 'Point',
+    'coordinates': [-84.496713, 38.045717 ]
+  }
+}).addTo(map);
+
+marker.eachLayer(function(m) {
+    m.openPopup();
+});
+</script>
+
+
+    <div class='keyline-all round pad2 col12 clearfix'>
+      <div class='col8 pad0y'>
+        Join us: <span class='quiet'>Wednesday, Sep 17 2014</span>
+      </div>
+      <div class='col4'>
+        <a class='button fill-orange block' href='https://www.eventbrite.com/e/maptimelex-september-meetup-tickets-12944367953'>RSVP</a>
+      </div>
+    </div>
+  
+
+  
+    <h2><a href='/event/2014/08/09/osm-summer-editathon/'>OpenStreetMap Summer Editathon</a></h2>
+    <p>Come help us celebrate OpenStreetMap’s 10th birthday by quite literally putting Lexington on the map! Bring an internet ready laptop and we’ll show you how to edit the world’s largest user-generated map. No experience necessary! Rumor has it there will be cake…</p>
+
+<ul>
+  <li>When: Saturday, August 9th, 12:00 - 4:00 PM</li>
+  <li>Where: West Sixth Brewing, 501 W Sixth St Suite 100, Lexington, Kentucky 40508</li>
+  <li>Who: Anyone! From kids, Millenials, Baby Boomers, the Greatest Generation, and even Gen-Xers! This is a family friendly event and OSM is super easy to edit.</li>
+  <li>Why: It’s the 10th birthday of OSM. We should shower it with gifts of edits!</li>
+</ul>
+
+<div id="map" class="row8 fill-blue col12 map space-bottom2"></div>
+<script>
+var map = L.mapbox.map('map', 'maptastik.j354k5k8')
+    .setView([38.059420, -84.491778], 17);
+
+var marker = L.mapbox.featureLayer({
+  'type': 'Feature',
+  'properties': {
+    'title': 'West Sixth Brewing',
+    'description': '501 W Sixth St, Suite 100,<br>Lexington, Kentucky<br>40508',
+    'marker-color': '#ff8888'
+  },
+  'geometry': {
+    'type': 'Point',
+    'coordinates': [-84.491778, 38.059420 ]
+  }
+}).addTo(map);
+
+marker.eachLayer(function(m) {
+    m.openPopup();
+});
+</script>
+
+
+    <div class='keyline-all round pad2 col12 clearfix'>
+      <div class='col8 pad0y'>
+        Join us: <span class='quiet'>Saturday, Aug 09 2014</span>
+      </div>
+      <div class='col4'>
+        <a class='button fill-orange block' href='https://www.facebook.com/events/286882241497292/'>RSVP</a>
+      </div>
+    </div>
+  
+
+
+<!-- Pagination links -->
+<div class='col12 center small strong space pad2y'>
+  
+    
+      <a href='/page2' class='button fill-blue icon left-arrow'>Newer</a>
+    
+  
+  
+    <a href='/page4' class='button fill-blue rcon right-arrow'>Older</a>
+  
+</div>
+
+
+      </div>
+    </div>
+  </div>
+
+  <footer class='fill-light pad2y'>
+    <div class='limiter center small quiet'>
+      <p>This website is <a href='http://github.com/lexington/lexington/'>open source</a> and you can improve it. Learn more about contributing <a href='https://guides.github.com/activities/forking/'>here</a>.</p>
+   </div>
+  </footer>
+
+<script src='/js/jquery.min.js'></script>
+<script src='/js/underscore.min.js'></script>
+<script src='/site.js'></script>
+<script>
+  var rsvp = document.getElementById('rsvpdate');
+  var date,formatted,link;
+  ''
+    date = '2015,5,20';
+    formatted = 'Wednesday, May 20 2015';
+    link = 'https://www.eventbrite.com/e/geospatial-analysis-w-turfjs-for-realsies-edition-tickets-16929329079';
+  ''
+
+  if (date && new Date().getTime() <= new Date(date).getTime() + (24 * 60 * 60 * 1000)) {
+    rsvp.innerHTML = '<h3>' + formatted + '</h3>' +
+    '<a class="button fill-orange block" href=' + link + '>RSVP</a>';
+  } else {
+    rsvp.innerHTML = '<h3>TBA</h3>';
+  }
+</script>
+
+</body>
+</html>
