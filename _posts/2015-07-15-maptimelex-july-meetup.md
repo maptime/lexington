@@ -34,7 +34,8 @@ var marker = L.mapbox.featureLayer({
     'marker-color': '#ff8888'
   },
   'geometry': {
-    'type': 'Point',38.04940538.04746]
+    'type': 'Point',
+    'coordinates':[38.049405,38.04746]
   }
 }).addTo(map);
 
