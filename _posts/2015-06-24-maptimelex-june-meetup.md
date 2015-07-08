@@ -24,7 +24,7 @@ If you have any questions or concerns, don't hesitate to drop us an email or con
 <div id='map' class='row8 fill-blue col12 map space-bottom2'></div>
 <script>
 var map = L.mapbox.map('map', 'maptastik.j354k5k8')
-    .setView([38.04746, -84.49253], 17);
+    .setView([38.049463, -84.493162], 17);
 
 var marker = L.mapbox.featureLayer({
   'type': 'Feature',
